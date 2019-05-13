@@ -1,3 +1,3 @@
 # responsive-portfolio
 
-The same portfolio from the "Basic Portfolio" repository, but built using Bootstrap and made mobile resposive using Media Queries
+The same portfolio from the "Basic Portfolio" repository, but built for mobile first responsiveness using Media Queries
